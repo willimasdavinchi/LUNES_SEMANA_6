@@ -46,6 +46,10 @@ Assets: Tia tomate se encargara de entregar las imágenes
 	.footer__rrhhlogo
 	.footer__indice
 
-imagenes:
+#imagenes:
+
+Vista en Desktop
 ![Alt text](draft/tiatomate-desktop.jpg?raw=true "Versión Desktop")
+
+Vista en Smartphone
 ![Alt text](draft/tiatomate-mobil.jpg?raw=true "Versión Desktop")
