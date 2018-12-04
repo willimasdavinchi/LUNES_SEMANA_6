@@ -6,23 +6,25 @@ Rubro: Agricultura / Verduras
 Target: Hombres y mujeres de 20 a 70 años clase C1, C2 y C3
 Resumen: Se va a desarrollar una landing para la empresa Tia Tomate donde muestre sus productos, historia y equipo. Tia tomate, es una PYME con más de 32 años en el rubro de la agricultura y quieren expandirse dentro del mundo tecnológico.
 
+
 Requerimientos:
+
 1.	Landing corporativo
-	a.	Header
-	b.	Secciones
-		i.	Historia
-		ii.	Producto
-	c.	Nosotros
-		i.	Javiera Junstmann
-		ii.	Roberto Pacheco
-	d.	Contactanos
-	e.	Footer
+	*	Header
+	*	Secciones
+		-	Historia
+		-	Producto
+	*	Nosotros
+		-	Javiera Junstmann
+		-	Roberto Pacheco
+	*	Contactanos
+	*	Footer
 
 Información técnica: html en bootstrap
 Assets: Tia tomate se encargara de entregar las imágenes
 
 #Classes:
-
+~~~~
 .navbar
 	.navbar__logo
 	.navbar__menu
@@ -45,7 +47,7 @@ Assets: Tia tomate se encargara de entregar las imágenes
 	.footer__rrhh
 	.footer__rrhhlogo
 	.footer__indice
-
+~~~~
 #imagenes:
 
 Vista en Desktop
